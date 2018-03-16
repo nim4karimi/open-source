@@ -1,7 +1,13 @@
 # Python 
 
 
-- workon downloader
+# Python Book
+### Bill Lubanovic - Application software development
+
+
+- workon python ( virtualenv )
+
+
 
 
 

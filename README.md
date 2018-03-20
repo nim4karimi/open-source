@@ -1,11 +1,13 @@
-# Python 
+# Nim4 Karimi
+### Open source - Share and learn :)
+****
+## Python 
+### from zetcode 
 
 
-# Python Book
+## Python Book
 ### Bill Lubanovic - Application software development
 
-
-- workon python ( virtualenv )
 
 
 
